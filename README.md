@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Siradj Eddine</h1>
 <h3 align="center">DevOps enthusiast with a Master's degree in Networking and Distributed Systems, committed to integrating DevOps practices to drive efficient workflows and seamless software delivery
   
-- 🌱 I’m currently learning **Tekton**
+- 🌱 I’m currently learning **Gitlab**
 
 - 💬 Ask me about **kubernetes,prometheus,grafana,litmus**
 
