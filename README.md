@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Siradj Eddine</h1>
 <h3 align="center">DevOps enthusiast with a Master's degree in Networking and Distributed Systems, committed to integrating DevOps practices to drive efficient workflows and seamless software delivery
   
-- 🌱 I’m currently learning **Gitlab**
+- 🌱 I’m currently learning **Github Actions**
 
 - 💬 Ask me about **kubernetes,prometheus,grafana,litmus**
 
 - 📫 How to reach me **siradjeddinefisli@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
